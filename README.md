@@ -3,13 +3,13 @@
 ## Navigating the Repo
 * Assignment: [ipynb](Ridge_Assignment.ipynb)
 * Solution: [ipynb](Ridge_Solution.ipynb)
-* Slides: [PDF](RidgeRegressionSlides.pdf)
-* Notes: [PDF](RidgeRegressionNotes.pdf)
+* Slides: [PDF](RidgeRegressionSlides.pdf) [Google](https://docs.google.com/presentation/d/1LYJdIy-f_f5NRS41nCvi7KfB5YRRByuTvddpJPkE5zQ/edit?usp=sharing)
+* Notes: [PDF](RidgeRegressionNotes.pdf) [Overleaf](https://www.overleaf.com/read/gcgvnyjyxrst)
 * Quiz questions weaved into the coding assignment
 
 ## Learning Objectives
 ### Overall
-Our assignment is broken down into 5 problems:
+Our assignment is broken down into 6 problems:
 1. OLS, Polynomial Toy Model, and Motivation for Ridge
 2. Ridge Regression
 3. Bias-Variance Trade Off
