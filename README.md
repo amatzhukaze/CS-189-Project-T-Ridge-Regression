@@ -1,10 +1,10 @@
 # CS-189-Project-T-Ridge-Regression
 
 ## Navigating the Repo
-* Location of assignment
-* Location of solution
-* Slides
-* Notes
+* Assignment: [ipynb](Ridge_Assignment.ipynb)
+* Solution: [ipynb](Ridge_Solution.ipynb)
+* Slides: [PDF](RidgeRegressionSlides.pdf)
+* Notes: [PDF](RidgeRegressionNotes.pdf)
 * Quiz questions weaved into the coding assignment
 
 ## Learning Objectives
