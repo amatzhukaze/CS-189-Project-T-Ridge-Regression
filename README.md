@@ -36,7 +36,7 @@ The first problem reviews OLS and sets up a polynomial toy model where OLS overf
   * Understand bias-variance trade-off in the context of ridge regression
   * Understand how the lambda parameter affects bias and variance
   * Code simulation of bias and variance as lambda varies
-  * Understand that the lambda that minimizes (bias)2 + variance also minimizes test error 
+  * Understand that the lambda that minimizes (bias)^2 + variance also minimizes test error 
 #### 4. Eigenvalue Perspective of Ridge Regression
 
   * Show the “hacky” perspective of ridge regression
