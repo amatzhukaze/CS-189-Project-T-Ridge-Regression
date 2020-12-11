@@ -1,5 +1,17 @@
 # CS-189-Project-T-Ridge-Regression
 
+## Updates (12/10)
+* Added quiz questions in separate document
+* Restructured notebook assignments:
+  * Original notebook was very long, and had multiple large sections that depended on each other. We split the original notebook into 5 separate notebooks that can be run independently.
+* Improved integration of sklearn
+  * Added an sklearn implementation side-by-side with numpy implementation of ridge to allow students to verify their solution
+  * Moved the sklearn application section to after the bias-variance tradeoff section, because this is when students are most prepared to tune lambda
+* Added a section to the notes clarifying how we would use the Ridge solution to make predictions
+* Added content to the Fake Data/Fake Features section
+  * Added a section in the notes on how to use the weight vectors learned from both perspectives to make predictions, specifically explained how to use the full (n+d) dimension weight vector from the fake feature perspective for predictions
+  * Added quiz questions in notebook asking about how we would use the learned w’s to make predictions
+
 ## Navigating the Repo
 * [All Assignments](Ridge_Assignment) | [All Solutions](Ridge_Solution)
 * Problem 1: OLS, Polynomial Toy Model, and Motivation for Ridge
