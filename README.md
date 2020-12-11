@@ -1,6 +1,6 @@
 # CS-189-Project-T-Ridge-Regression
 
-## Updates (12/10)
+## Peer-Review Updates (12/10)
 * Added quiz questions in separate document
 * Restructured notebook assignments:
   * Original notebook was very long, and had multiple large sections that depended on each other. We split the original notebook into 5 separate notebooks that can be run independently.
