@@ -37,7 +37,7 @@ Our assignment is broken down into 5 problems:
 4. Eigenvalue Perspective of Ridge Regression
 5. Alternative Solution to Ridge Regression
 
-The first problem reviews OLS and sets up a polynomial toy model where OLS overfits the training data to show our motivation for Ridge Regression. This transitions into the second problem where we introduce Ridge Regression and have students practice implementing code. The third, fourth, and fifth problems are designed to offer other perspectives on Ridge Regression. Finally, the sixth and last problem on the assignment introduces the Sklearn library to the students and has them training various models using Ridge Regression.
+The first problem reviews OLS and sets up a polynomial toy model where OLS overfits the training data to show our motivation for Ridge Regression. This transitions into the second problem where we introduce Ridge Regression and have students practice implementing code. In this section we also go more in depth on tuning lambda and relating this to the bias-variance variance. Now that students are more familiar with tuning lambda, they can move onto the third problem which covers sklearn practice and implementing the training, validation, and testing processes of ridge on multiple datasets. The fourth and fifth problems are designed to offer other perspectives on Ridge Regression, namely how eigenvalues are involved and the fake data/feature perspectives, respectively.
 
 ### Broken Down by Section
 #### 1. OLS, Polynomial Toy Model, and Motivation for Ridge
