@@ -22,7 +22,7 @@
   * [ipynb Assignment](Ridge_Assignment/prob3.ipynb) | [ipynb Solution](Ridge_Solutions/prob3-sol.ipynb)
 * Problem 4: Eigenvalue Perspective of Ridge Regression
   * [ipynb Assignment](Ridge_Assignment/prob4.ipynb) | [ipynb Solution](Ridge_Solutions/prob4-sol.ipynb)
-* Problem 5: Alternative Solution to Ridge Regression
+* Problem 5: Alternative Solutions to Ridge Regression
   * [ipynb Assignment](Ridge_Assignment/prob5.ipynb) | [ipynb Solution](Ridge_Solutions/prob5-sol.ipynb)
 * Slides: [PDF](Ridge_Slides.pdf) | [Google](https://docs.google.com/presentation/d/1LYJdIy-f_f5NRS41nCvi7KfB5YRRByuTvddpJPkE5zQ/edit?usp=sharing)
 * Notes: [PDF](Ridge_Notes.pdf) | [Overleaf](https://www.overleaf.com/read/gcgvnyjyxrst)
@@ -30,7 +30,7 @@
 
 ## Learning Objectives
 ### Overall
-Our assignment is broken down into 6 problems:
+Our assignment is broken down into 5 problems:
 1. OLS, Polynomial Toy Model, and Motivation for Ridge
 2. Ridge Regression
 3. Sklearn
